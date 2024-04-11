@@ -4,4 +4,4 @@ Here I will be learning [Python](https://www.python.org/) from tutorials and own
 - [Python for Beginners - Learn Python in 1 Hour](https://www.youtube.com/watch?v=kqtD5dpn9C8)
 
 **Docs**
-- [The Python Tutoria](https://docs.python.org/3.12/tutorial/index.html)
+- [The Python Tutorial](https://docs.python.org/3.12/tutorial/index.html)
